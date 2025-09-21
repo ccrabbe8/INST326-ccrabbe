@@ -9,3 +9,9 @@ This week I used AI for trying to find topics specfically for the categories tha
 project. And for searching something for my friend who is using R Studio for her class and I only briefly touched R over the summer
 which was only 5 weeks but I got to learn a little about it. This my chat link for both https://chatgpt.com/c/68c1b764-bb3c-832d-993d-5e5724ae1930
 and for the topics https://chatgpt.com/c/68c2fc00-7860-8329-9722-82e943652b8a. 
+
+Week 2
+
+This week I've used chatgpt to help me with a situation that happened recently I wanted to know if it could breakdown
+the steps on what to do when someone gets hacked on an app since it happened to my dad so that was what I did with it.
+ https://chatgpt.com/c/68cf5690-92a8-8328-9c77-b26ae9ad84ac
