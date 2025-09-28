@@ -15,3 +15,8 @@ Week 2
 This week I've used chatgpt to help me with a situation that happened recently I wanted to know if it could breakdown
 the steps on what to do when someone gets hacked on an app since it happened to my dad so that was what I did with it.
  https://chatgpt.com/c/68cf5690-92a8-8328-9c77-b26ae9ad84ac
+
+ Week 3
+ 
+ I didn't really use chatgpt this week except I think for asking about a personal matter but I didn't really 
+ do much with it. I used claude to debug my code but overall that's it.
